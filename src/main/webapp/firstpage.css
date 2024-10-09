@@ -1,0 +1,27 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Parisienne&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+.bankimage{
+    margin-top: 70px;
+    align-items: center;
+    text-align: center;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+   
+}
+
+.btn{
+    width: 100%;
+}
+
+
